@@ -1,0 +1,7 @@
+## Interface: 30401
+## Title: GodDammitAbi
+## Notes: Responds to guild chat messages from Baahhumbug.
+## Version: 1.0.0
+## Author: Pampaladina
+
+GodDammitAbi.lua
